@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #212121;
+    font-family: 'Roboto', sans-serif;
+    color: #E4E4E4;
+}
+  
+.container-principal {
+    color: #E4E4E4;
+    display: flex;
+    align-items: center;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    margin-left: 20px; 
+}
+  
+h1 {
+    margin-right: 500px; 
+    text-decoration: underline yellow;
+}
+  
+label {
+    margin-right: 10px; 
+    text-decoration: underline 3px yellow;
+}
+
